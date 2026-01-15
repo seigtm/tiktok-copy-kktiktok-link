@@ -4,8 +4,8 @@
 // @version      1.1
 // @description  Floating button to copy kktiktok.com links for Telegram embedding
 // @match        https://www.tiktok.com/*
-// @updateURL    https://raw.githubusercontent.com/seigtm/tiktok-copy-kktiktok-link/main/tiktok-copy-kktiktok-link.user.js
-// @downloadURL  https://raw.githubusercontent.com/seigtm/tiktok-copy-kktiktok-link/main/tiktok-copy-kktiktok-link.user.js
+// @updateURL    https://github.com/seigtm/tiktok-copy-kktiktok-link/raw/refs/heads/master/tiktok-copy-kktiktok-link.user.js
+// @downloadURL  https://github.com/seigtm/tiktok-copy-kktiktok-link/raw/refs/heads/master/tiktok-copy-kktiktok-link.user.js
 // @grant        none
 // ==/UserScript==
 
